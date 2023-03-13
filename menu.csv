@@ -1,0 +1,11 @@
+id,productId,name,description,price
+1,1,KlasikPizza,"Jambon, Pepperoni, Sucuk, Sosis, Mısır, Mozarella Peyniri, Pizza Sos, Siyah Zeytin, Yeşil Biber, Domates, Mantar, Susam ve Kekiğin eşsiz buluşması",50
+2,2,Margarita,Mozarella Peyniri ve Pizza Sosu ile yapılan klasik lezzet,60
+3,3,TurkPizza,"Mozarella Peyniri, Pizza Sos, Siyah Zeytin, Mantar ve Yöresel Baharatlar ile yapılan eşsiz bir lezzet",60
+4,4,SadePizza,"Malzemeler= Domates Sosu, Mozarella",50
+5,11,Zeytin,Bursa gemlik zeytini kullanılmaktadır,5
+6,12,Mantar,Kültür mantarı kullanılmaktadır,10
+7,13,KeciPeyniri,Anadolu doğal keçi peyniri,20
+8,14,Et,Helal kesim dana eti,30
+9,15,Sogan,Kırmızı kuru soğan kullanılmaktadır.,8
+10,16,Misir,Katkı maddesiz mısırlar kullanılmaktadır.,8
